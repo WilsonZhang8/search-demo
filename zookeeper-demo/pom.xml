@@ -3,4 +3,11 @@
   <groupId>com.zghw</groupId>
   <artifactId>zookeeper-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+		<groupId>org.apache.zookeeper</groupId>
+		<artifactId>zookeeper</artifactId>
+		<version>3.4.6</version>
+	</dependency>
+  </dependencies>
 </project>
